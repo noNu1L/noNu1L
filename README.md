@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**noNu1L/noNu1L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ✨ Build fun little projects
+#### 🙅 No reinventing the wheel
+#### 🎓 Get you up to speed — the easy way
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noNu1L/163musicCard/raw/master/cards/classic/dark-large.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/noNu1L/163musicCard/raw/master/cards/classic/light-large.svg">
+  <img src="https://github.com/noNu1L/163musicCard/raw/master/cards/classic/dark-large.svg" width="960" alt="NetEase Cloud Music Card">
+</picture>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/noNu1L/163musicCard/raw/master/cards/classic-weekly-rank/dark-large.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/noNu1L/163musicCard/raw/master/cards/classic-weekly-rank/light-large.svg">
+  <img src="https://github.com/noNu1L/163musicCard/raw/master/cards/classic-weekly-rank/dark-large.svg" width="960" alt="NetEase Cloud Music Card">
+</picture>
